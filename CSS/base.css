@@ -6,6 +6,9 @@ body {
 background-color:#cccccc;
 }
 
+header {
+    padding-left:50px;
+}
 #wrapper {
 width:820px;
 background-color:white;
@@ -20,7 +23,7 @@ width:780px;
 padding:10px;
 float:center;
 background-color:none;
-padding-left:25px;
+padding-left:175px;
 }
 
 article {
