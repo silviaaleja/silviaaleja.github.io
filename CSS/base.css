@@ -6,6 +6,9 @@ body {
 background-color:#cccccc;
 }
 
+img {
+    float:right;
+}
 header {
     padding-left:50px;
 }
@@ -65,3 +68,4 @@ h2 {
     color: #76cbcc }
   a:visited {
     color: #9b8776 }
+
