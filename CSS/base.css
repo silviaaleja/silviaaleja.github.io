@@ -1,16 +1,24 @@
 
 body { 
+   
      color:#666666;
      font-family: Helvetica, Arial, sans-serif;
     font-size: 20px;
 background-color:#cccccc;
 }
 
+
 img {
     float:right;
+    padding-bottom:10px;
+    padding-left:10px;
+   
 }
+
 header {
-    padding-left:50px;
+    padding-left:0px;
+    padding-right:53px;
+    float: center;
 }
 #wrapper {
 width:820px;
