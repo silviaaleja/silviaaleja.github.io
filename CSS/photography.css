@@ -16,8 +16,8 @@ background-color:#cccccc;
 }
 
 header {
-    padding-left:55px;
-    padding-right:55px;
+    padding-left:0px;
+    padding-right:53px;
     float: center;
 }
 nav {
@@ -30,7 +30,7 @@ padding-left:175px;
 
 article {
 width:750px;
-height:900px;
+height:px;
 margin-left:30px;
 padding-right:10px;
 padding-bottom:15px;
@@ -47,9 +47,10 @@ div img {
    
 }
 figcaption {
+    width: 450px
 }
 footer {
-padding:700px 10px 10px;
+padding:7px 10px 10px;
 width:790px;
 text-align:center;
 color:#666666;

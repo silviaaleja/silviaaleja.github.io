@@ -8,6 +8,19 @@ border: solid 10px #ef8990;
 }
 
 
+body { 
+   
+     color:#666666;
+     font-family: Helvetica, Arial, sans-serif;
+    font-size: 20px;
+background-color:#cccccc;
+}
+header {
+    padding-left:0px;
+    padding-right:53px;
+    float: center;
+}
+
 nav {
 width:780px;
 padding:10px;
@@ -16,19 +29,6 @@ background-color:none;
 padding-left:175px;
 }
 
-body { 
-   
-     color:#666666;
-     font-family: Helvetica, Arial, sans-serif;
-    font-size: 20px;
-background-color:#cccccc;
-}
-
-header {
-    padding-left:0px;
-    padding-right:53px;
-    float: center;
-}
 
 article {
 width:750px;
@@ -40,7 +40,7 @@ padding-bottom:15px;
     font-family:sans-serif
 }
 
-img {
+article img {
     float:right;
     padding-bottom:10px;
     padding-left:10px;
@@ -59,15 +59,7 @@ border-top: dotted 3px;
 footer p {
 text-align:center;
 }
-h1 {
-    color: #5f5e5e;
-    font-size: 28px;
-}
 
-h2 {
-    color: #5f5e5e;
-    font-size: 16px;
-    
 }
 
 
