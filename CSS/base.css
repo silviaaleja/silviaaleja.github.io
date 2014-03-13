@@ -1,25 +1,4 @@
 
-body { 
-   
-     color:#666666;
-     font-family: Helvetica, Arial, sans-serif;
-    font-size: 20px;
-background-color:#cccccc;
-}
-
-
-img {
-    float:right;
-    padding-bottom:10px;
-    padding-left:10px;
-   
-}
-
-header {
-    padding-left:0px;
-    padding-right:53px;
-    float: center;
-}
 #wrapper {
 width:820px;
 background-color:white;
@@ -37,6 +16,20 @@ background-color:none;
 padding-left:175px;
 }
 
+body { 
+   
+     color:#666666;
+     font-family: Helvetica, Arial, sans-serif;
+    font-size: 20px;
+background-color:#cccccc;
+}
+
+header {
+    padding-left:0px;
+    padding-right:53px;
+    float: center;
+}
+
 article {
 width:750px;
 margin-left:30px;
@@ -46,6 +39,14 @@ padding-bottom:15px;
     font-size: 14px;
     font-family:sans-serif
 }
+
+img {
+    float:right;
+    padding-bottom:10px;
+    padding-left:10px;
+   
+}
+
 
 footer {
 padding:10px 10px 10px;
