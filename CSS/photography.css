@@ -39,16 +39,15 @@ padding-bottom:15px;
     font-family:sans-serif
 }
 
-img {
+div img {
     float:left;
     padding-bottom:10px;
     padding-left:0px;
-    padding-right:150px
+    padding-right:999px
    
 }
-
-
-
+figcaption {
+}
 footer {
 padding:700px 10px 10px;
 width:790px;
