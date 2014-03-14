@@ -30,7 +30,6 @@ padding-left:175px;
 
 article {
 width:750px;
-height:px;
 margin-left:30px;
 padding-right:10px;
 padding-bottom:15px;
@@ -74,6 +73,7 @@ h2 {
 
   nav {
     text-decoration: none }
+    
   a:link {
     color: #76cbcc }
   a:visited {
