@@ -7,18 +7,18 @@ margin-right:auto;
 border: solid 10px #ef8990;
 }
 
+header {
+    padding-left:150px;
+    padding-right:150px;
+    float: left;
+}
 
 body { 
    
      color:#666666;
      font-family: Helvetica, Arial, sans-serif;
-    font-size: 15px;
+    font-size: 25px;
 background-color:grey;
-}
-header {
-    padding-left:53px;
-    padding-right:53px;
-    float: center;
 }
 
 nav {
